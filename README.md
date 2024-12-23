@@ -1,3 +1,4 @@
 # 🍃 🌸 Machine Learning: Seeds of System Design Innovation 🌱
 
+will begin soon: 
 This repository delivers crucial insights into building large-scale AI applications, focusing on the often-overlooked system design principles rather than just model development. It provides comprehensive understanding of essential architecture, infrastructure, and integration patterns needed for production-ready AI systems. By diving deep into system design fundamentals, this repository equips developers with knowledge to create scalable, maintainable, and efficient AI applications that can handle real-world enterprise demands. From architectural blueprints to deployment strategies, it serves as a vital resource for anyone looking to bridge the gap between AI theory and practical, large-scale implementation. 🍃🚀✨
